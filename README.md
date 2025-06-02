@@ -14,7 +14,7 @@ Unraveling **Spatio-Temporal Foundation Models** via the **Pipeline** lens  with
 
 **Authors**: Yuchen Fang, Hao Miao, Yuxuan Liang, Liwei Deng, Yue Cui, Ximu Zeng, Yuyang Xia, Yan Zhao∗, Torben Bach Pedersen, Christian S. Jensen (*IEEE Fellow*), Xiaofang Zhou (*IEEE Fellow*), and Kai Zheng∗.
 
-|![Figure1](pics/pipeline.png)|
+|![Figure1](pipeline.png)|
 |:--:| 
 | *Figure 1. The pipeline of spatio-temporal foundation models.* |
 
