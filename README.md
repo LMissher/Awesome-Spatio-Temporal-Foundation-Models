@@ -23,9 +23,9 @@ Unraveling **Spatio-Temporal Foundation Models** via the **Pipeline** lens  with
 ```bibtex
 @article{fang2025unraveling,
       title={Unraveling Spatio-Temporal Foundation Models via the Pipeline Lens: A Comprehensive Review}, 
-      author={Yuchen Fang and Hao Miao and Yuxuan Liang and Liwei Deng and Yue Cui and Ximu Zeng and Yuyang Xia and Yan Zhao and Torben Bach Pedersen and Christian S. Jensen and Xiaofang Zhou and and Kai Zheng},
+      author={Fang, Yuchen and Miao, Ha and Liang, Yuxuan and Deng, Liwei and Cui, Yue and Zeng, Ximu and Xia, Yuyang and Zhao, Yan and Pedersen, Torben Bach and Jensen, Christian S and Zhou, Xiaofang and and Zheng, Kai},
+      journal={arXiv preprint arXiv:2506.01364},
       year={2025},
-      archivePrefix={arXiv},
 }
 ```
 
