@@ -323,6 +323,8 @@ Please refer to the Table II in the paper.
 
 * UVTM: Universal Vehicle Trajectory Modeling with ST Feature Domain Generation, in *TKDE* 2025. [[paper](https://arxiv.org/abs/2402.07232)] [[official-code](https://github.com/Logan-Lin/UVTM)]
 
+* TrajMoE: Spatially-Aware Mixture of Experts for Unified Human Mobility Modeling, in *arXiv* 2025. [[paper](https://arxiv.org/abs/2505.18670)]
+
 ### Masked Modeling
 
 * Masked Autoencoders for Point Cloud Self-supervised Learning, in *ECCV* 2022. [[paper](https://arxiv.org/abs/2203.06604)] [[official-code](https://github.com/Pang-Yatian/Point-MAE)]
@@ -356,6 +358,8 @@ Please refer to the Table II in the paper.
 * Revealing the Power of Masked Autoencoders in Traffic Forecasting, in *CIKM* 2024. [[paper](https://dl.acm.org/doi/10.1145/3627673.3679989)] [[official-code](https://github.com/jsun57/STMAE)]
 
 * WeatherGFM: Learning a Weather Generalist Foundation Model via In-context Learning, in *ICLR* 2025. [[paper](https://openreview.net/forum?id=izjNI5bcOV)] [[official-code](https://github.com/xiangyu-mm/WeatherGFM)]
+
+* A Universal Pre-Training and Prompting Framework for General Urban Spatio-Temporal Prediction, in *TKDE* 2025. [[paper](https://ieeexplore.ieee.org/abstract/document/10904327)]
 
 ### Contrastive Learning
 
@@ -514,6 +518,8 @@ Please refer to the Table II in the paper.
 
 * TimeCMA: Towards LLM-Empowered Time Series Forecasting via Cross-Modality Alignment, in *AAAI* 2025. [[paper](https://arxiv.org/abs/2406.01638)] [[official-code](https://github.com/ChenxiLiu-HNU/TimeCMA)]
 
+* ST-LLM+: Graph Enhanced Spatio-Temporal Large Language Models for Traffic Prediction, in *TKDE* 2025. [[paper](https://ieeexplore.ieee.org/abstract/document/11005661)]
+
 ### Multi-Modal
 
 * Zero-Shot Video Question Answering via Frozen Bidirectional Language Models, in *NeurIPS* 2022. [[paper](https://arxiv.org/abs/2206.08155)] [[official-code](https://github.com/antoyang/FrozenBiLM)]
@@ -627,6 +633,8 @@ Please refer to the Table II in the paper.
 * Large Language Models for Next Point-of-Interest Recommendation, in *SIGIR* 2024. [[paper](https://arxiv.org/abs/2404.17591)] [[official-code](https://github.com/neolifer/LLM4POI)]
 
 * PTR: A Pre-trained Language Model for Trajectory Recovery, in *arXiv* 2025. [[paper](https://arxiv.org/abs/2410.14281v1)]
+
+* Efficient Multivariate Time Series Forecasting via Calibrated Language Models with Privileged Knowledge Distillation, in *ICDE* 2025. [[paper](https://arxiv.org/abs/2505.02138)] [[official-code](https://github.com/ChenxiLiu-HNU/TimeKD)]
 
 
 
