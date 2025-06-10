@@ -1,8 +1,17 @@
+<div align="center">
+      
 # Awesome Spatio-Temporal Foundation Models
+      
+</div>
 
+<div align="center">
+
+[![Arxiv link](https://img.shields.io/static/v1?label=arXiv&message=STFMs&color=red&logo=arxiv)](https://arxiv.org/abs/2506.01364)
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) 
 ![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green) 
 ![Stars](https://img.shields.io/github/stars/LMissher/Awesome-Spatio-Temporal-Foundation-Models)
+
+</div>
 
 
 Unraveling **Spatio-Temporal Foundation Models** via the **Pipeline** lens  with awesome resources (paper, code, survey, etc.), which aims to comprehensively and systematically summarize the recent advances to the best of our knowledge.
@@ -239,6 +248,8 @@ Please refer to the Table II in the paper.
 
 * Tiny Time Mixers (TTMs): Fast Pre-trained Models for Enhanced Zero/Few-Shot Forecasting of Multivariate Time Series, in *NeurIPS* 2024. [[paper](https://arxiv.org/abs/2401.03955)] [[official-code](https://github.com/ibm-granite/granite-tsfm/tree/main/tsfm_public/models/tinytimemixer)]
 
+* Time-MoE: Billion-Scale Time Series Foundation Models with Mixture of Experts, in *ICLR* 2025. [[paper](https://arxiv.org/abs/2409.16040)] [[official-code](https://github.com/Time-MoE/Time-MoE)]
+
 ### Spatio-Temporal
 
 * Robust Event Forecasting with Spatiotemporal Confounder Learning, in *KDD* 2022. [[paper](https://dl.acm.org/doi/10.1145/3534678.3539427)]
@@ -325,6 +336,8 @@ Please refer to the Table II in the paper.
 
 * TrajMoE: Spatially-Aware Mixture of Experts for Unified Human Mobility Modeling, in *arXiv* 2025. [[paper](https://arxiv.org/abs/2505.18670)]
 
+* * Time-MoE: Billion-Scale Time Series Foundation Models with Mixture of Experts, in *ICLR* 2025. [[paper](https://arxiv.org/abs/2409.16040)] [[official-code](https://github.com/Time-MoE/Time-MoE)]
+
 ### Masked Modeling
 
 * Masked Autoencoders for Point Cloud Self-supervised Learning, in *ECCV* 2022. [[paper](https://arxiv.org/abs/2203.06604)] [[official-code](https://github.com/Pang-Yatian/Point-MAE)]
@@ -398,6 +411,8 @@ Please refer to the Table II in the paper.
 * More Than Routing: Joint GPS and Route Modeling for Refine Trajectory Representation Learning, in *WWW* 2024. [[paper](https://dl.acm.org/doi/10.1145/3589334.3645644)] [[official-code](https://github.com/mamazi0131/JGRM)]
 
 * FlashST: A Simple and Universal Prompt-Tuning Framework for Traffic Prediction, in *ICML* 2024. [[paper](https://arxiv.org/abs/2405.17898)] [[official-code](https://github.com/HKUDS/FlashST)]
+
+* MM-Path: Multi-modal, Multi-granularity Path Representation Learning, in *KDD* 2025. [[paper](https://arxiv.org/abs/2411.18428?)] [[official-code](https://github.com/decisionintelligence/MM-Path)]
 
 ### Diffusion Generation
 
@@ -520,6 +535,8 @@ Please refer to the Table II in the paper.
 
 * ST-LLM+: Graph Enhanced Spatio-Temporal Large Language Models for Traffic Prediction, in *TKDE* 2025. [[paper](https://ieeexplore.ieee.org/abstract/document/11005661)]
 
+* Path-LLM: A Multi-Modal Path Representation Learning by Aligning and Fusing with Large Language Models, in *WWW* 2025. [[paper](https://openreview.net/forum?id=KmMSQS6tFn#discussion)] [[official-code](https://github.com/decisionintelligence/Path-LLM)]
+
 ### Multi-Modal
 
 * Zero-Shot Video Question Answering via Frozen Bidirectional Language Models, in *NeurIPS* 2022. [[paper](https://arxiv.org/abs/2206.08155)] [[official-code](https://github.com/antoyang/FrozenBiLM)]
@@ -615,6 +632,8 @@ Please refer to the Table II in the paper.
 * UrbanGPT: Spatio-Temporal Large Language Models, in *KDD* 2024. [[paper](https://dl.acm.org/doi/10.1145/3637528.3671578)] [[official-code](https://github.com/HKUDS/UrbanGPT)]
 
 * TimeCMA: Towards LLM-Empowered Time Series Forecasting via Cross-Modality Alignment, in *AAAI* 2025. [[paper](https://arxiv.org/abs/2406.01638)] [[official-code](https://github.com/ChenxiLiu-HNU/TimeCMA)]
+
+* Path-LLM: A Multi-Modal Path Representation Learning by Aligning and Fusing with Large Language Models, in *WWW* 2025. [[paper](https://openreview.net/forum?id=KmMSQS6tFn#discussion)] [[official-code](https://github.com/decisionintelligence/Path-LLM)]
 
 ### Supervised Fine-Tuning
 
