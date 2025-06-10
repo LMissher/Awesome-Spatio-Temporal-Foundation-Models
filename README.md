@@ -336,7 +336,7 @@ Please refer to the Table II in the paper.
 
 * TrajMoE: Spatially-Aware Mixture of Experts for Unified Human Mobility Modeling, in *arXiv* 2025. [[paper](https://arxiv.org/abs/2505.18670)]
 
-* * Time-MoE: Billion-Scale Time Series Foundation Models with Mixture of Experts, in *ICLR* 2025. [[paper](https://arxiv.org/abs/2409.16040)] [[official-code](https://github.com/Time-MoE/Time-MoE)]
+* Time-MoE: Billion-Scale Time Series Foundation Models with Mixture of Experts, in *ICLR* 2025. [[paper](https://arxiv.org/abs/2409.16040)] [[official-code](https://github.com/Time-MoE/Time-MoE)]
 
 ### Masked Modeling
 
